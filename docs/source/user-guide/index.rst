@@ -36,3 +36,4 @@ User guide
 
 * :doc:`Cheat sheet <cheatsheet>`.
 * :doc:`Troubleshooting <troubleshooting>`.
+  :hacks tpp  freddy
